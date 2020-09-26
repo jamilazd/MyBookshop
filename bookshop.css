@@ -54,7 +54,7 @@ h1 {
     font-weight: bold;
     color:#ffffff; 
     position: relative; 
-    right: 35px; 
+    right: 36px; 
     -webkit-text-stroke: 0.3px #242424;
 }
 
@@ -81,9 +81,10 @@ h1 {
 #book-text {
   background-color: #f97c34;  
   font-family: 'Gothic A1', sans-serif; 
+  font-style: italic; 
   font-size: 30px; 
   text-align: center;
-  color:#000000; 
+  color:#ffffff; 
   position: relative; 
   border: 1px;
   border-color: #616060; 
