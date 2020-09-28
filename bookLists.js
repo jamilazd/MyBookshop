@@ -226,6 +226,5 @@ const bookLists = [
 ]
 
 
-for (const value of booklists) {
-    console.log(value); 
-}
+//function displayBooks () {}
+
