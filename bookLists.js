@@ -1,4 +1,6 @@
-export const bookLists = [
+//will create seperate js file for this and import into index.js 
+
+const bookLists = [
 
     {
         bookName: 'Queenie', 
@@ -17,7 +19,7 @@ export const bookLists = [
         author: 'Taiye Selasi', 
         price: 2.99,
         description: 'A stunning novel, spanning generations and continents, Ghana Must Go by rising star Taiye Selasi is a tale of family drama and forgiveness, for fans of Zadie Smith and Chimamanda Ngozi Adichie. This is the story of a family - of the simple,devastating ways in which families tear themselves apart', 
-        image: "http://books.google.com/books/content?id=djc_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api", 
+        image: "https://books.google.co.uk/books?id=9j4JGEkCA5cC&printsec=frontcover&dq=ghana+must+go+book&hl=en&sa=X&ved=2ahUKEwjg-dnzjY_sAhXhRxUIHTivA1gQ6AEwAHoECAYQAg#v=onepage&q=ghana%20must%20go%20book&f=false", 
 
     },
 
