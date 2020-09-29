@@ -1,4 +1,4 @@
-const bookLists = [
+export const bookLists = [
 
     {
         bookName: 'Queenie', 
