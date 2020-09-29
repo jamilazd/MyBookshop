@@ -226,5 +226,3 @@ const bookLists = [
 ]
 
 
-//function displayBooks () {}
-
